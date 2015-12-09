@@ -1,0 +1,28 @@
+name: Test Digital
+favicon: null
+layout_spectrum: 0.9177849791012704
+typography_spectrum: 0.6182692579459399
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.6407486924435943
+  lightness: 0.5436035797465593
+  saturation: 0.27840902260504663
+  rhythmicContrast: 0.29275844409130514
+purpose: []
