@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Test Digital]]></title>
-        <description><![CDATA[Test Digital]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[So this is the grid beta, mmm interesting :-)]]></title>
+        <description><![CDATA[So this is the grid beta, mmm interesting :-)]]></description>
+        <link>https://thegrid.ai/test-digital/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 16:44:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Dec 2015 17:13:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/test-digital/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ce20ff0-c8ce-4f16-99fb-c697d1d02990.jpg">]]></description>
+            <link>https://thegrid.ai/test-digital/425166a9-ae62-4ede-a3d0-02c312c8ff1f/index.html</link>
+            <guid isPermaLink="false">425166a9-ae62-4ede-a3d0-02c312c8ff1f</guid>
+            <pubDate>Wed, 09 Dec 2015 17:13:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/test-digital/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">fef359f7-df3e-41a6-b8f7-a447807de71e</guid>
             <pubDate>Wed, 09 Dec 2015 16:44:42 GMT</pubDate>
         </item>
