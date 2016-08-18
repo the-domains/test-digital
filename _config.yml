@@ -1,20 +1,4 @@
-name: Test Digital
-favicon: null
-layout_spectrum: 0.9177849791012704
 typography_spectrum: 0.6182692579459399
-title: 'So this is the grid beta, mmm interesting :-)'
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#f2dcc4'
@@ -26,4 +10,21 @@ color:
   lightness: 0.5436035797465593
   saturation: 0.25
   rhythmicContrast: 1
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.9177849791012704
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Test Digital
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: 'So this is the grid beta, mmm interesting :-)'
+description: All the things I would remember if I could
 purpose: []
